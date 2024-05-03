@@ -1,7 +1,7 @@
-
+import foter from "../Css/Foter.module.css"
 function Foter() {
   return (
-    <div>Foter</div>
+    <div className={foter.fotercontainer}>Foter</div>
   )
 }
 
