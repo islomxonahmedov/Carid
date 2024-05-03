@@ -1,3 +1,37 @@
 .fotercontainer{
-    color: aqua;
+    width: 100%;
+    height: 500px;
+    background-color: aqua;
+}
+.orabtur{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.fotertpa{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(37, 55, 85);
+    display: flex;
+}
+.foteryozuv{
+    color: white;
+    text-align: center;
+    width: 400px;
+    margin-top: 10px;
+    font-size: 26px;
+    margin-left: 350px;
+}
+.foterbutton{
+    width: 400px;
+    height: 40px;
+    margin-top: 5px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+}
+.foterbutton:hover{
+    cursor: pointer;
+}
+.fotteryouz{
+    font-size: 20px;
 }
