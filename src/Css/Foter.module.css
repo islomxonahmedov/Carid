@@ -1,6 +1,7 @@
 .fotercontainer {
-    width: 100%;
+    width: 1400px;
     height: 500px;
+    margin: 0 auto ;
 }
 
 .orabtur {
@@ -79,7 +80,7 @@
 }
 
 .yozuv {
-    font-size: 13px;
+    font-size:13px;
     color: dimgrey;
     margin-top: 35px;
     padding: 10px;

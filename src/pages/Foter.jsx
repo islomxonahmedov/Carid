@@ -25,8 +25,7 @@ function Foter() {
               <FaInstagram className={foter.icccons} />
             </div>
             <h1 className={foter.ortayoz}>inspriation Gallery</h1>
-            <h1 className={foter.yozuv}>All manufacturer names, symbols, and descriptions, used in our images and text are used solely for identification purposes only. It is neither inferred nor implied that any item sold by CARiD.com is a product authorized by or in any way connected with any vehicle manufacturers displayed on this page.
-              more details on - https://www.carid.com/</h1>
+            <h1 className={foter.yozuv}>All manufacturer names, symbols, and descriptions, used in our images and text are used solely for identification purposes only. </h1>
           </div>
           <div className={foter.quticha}>
             <h1 className={foter.custom} >CUSTOMER SERVICE </h1>
@@ -57,7 +56,7 @@ function Foter() {
             <h1 className={foter.tool}> international:1.609.642.4700</h1>
             <h1 className={foter.tool}> Fax:1.609.964.1983</h1>
             <h1 className={foter.loacti}><MdEmail /> Email:info@carid.com</h1>
-          </div>
+          </div>    
         </div>
       </div>
     </div>
